@@ -1,0 +1,57 @@
+body {
+    background-image: url("fondo.png");
+    background-size: contain;
+}
+
+input{
+    color: black;
+}
+* {
+    color:white;
+}
+
+label{
+    color: black;
+}
+
+
+header { 
+    color:white;
+    font-family: 'Courier New';
+    font-size: 48px;
+    font-weight: 100;
+    background-color:white;
+    border: solid 4px black;
+    padding: 10px;
+    margin: 20px;
+    background-image: url("fondotitulo.jpg");
+    text-align: center;
+ }
+#mi_parrafo{
+    color: white;
+    font-size: 20px;
+}
+ h2 {
+     color: white;
+     text-align: center;
+ }
+
+h3{
+font-size: 30px;
+}
+
+
+footer {
+    background-color: black;
+    font-size: 20px;
+    margin: 10px;
+
+    
+
+}
+
+
+
+
+
+
